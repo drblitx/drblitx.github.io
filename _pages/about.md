@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+# title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 👋! Emily here.
-------
+======
 I'm an emerging Deaf data scientist with a background in a wide variety of areas including government, accessibility, and research. Right now, I'm pursuing my MS in Data Science at Rochester Institute of Technology (RIT), building on my BA in Government (and a minor in Data Science) from Gallaudet University. I enjoy working with Python, SQL, and R (and sometimes a little bit of Java or C) to take complex numbers/data into something meaningful (practical or impractical!)
 
 My experience includes both industry and academic work; from building an image-labeling app and deep learning workflows at Dow Chemical, to developing transcription pipelines, GIS dashboards, and web-based tools with organizations like Nagish, 5 Star Interpreting, and ASL Aspire. I also created an original project from scratch with my undergraduate Honors Capstone at Gallaudet University, where I used ArcGIS to visualize spatial trends in the US Deaf community -- this resulted in a research paper that was archived by both Gallaudet and RIT libraries. 
