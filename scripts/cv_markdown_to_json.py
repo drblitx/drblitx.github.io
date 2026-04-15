@@ -336,7 +336,7 @@ def parse_teaching(teaching_dir):
     return teaching
 
 def parse_portfolio(portfolio_dir):
-    """Parse portfolio items from the _portfolio directory."""
+    """Parse portfolio items from the _projects directory."""
     portfolio = []
     
     if not os.path.exists(portfolio_dir):
@@ -396,7 +396,7 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
     
     # Add portfolio
-    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_projects"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:

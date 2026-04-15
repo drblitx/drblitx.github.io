@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"
   bio              : "Data Scientist & Software Engineer"
   location         : "DC Metro Area"
-  employer         : "X Employer"
+  employer         : ""
   uri              : # URL
   email            : # "none@example.org"
 
@@ -87,7 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  capstones:
+    title: 'Capstones'
   conferences:
     title: 'Conference Papers'
 
@@ -273,7 +275,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: portfolio
