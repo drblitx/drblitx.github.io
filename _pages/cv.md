@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, Rochester Institute of Technology, 2026
-* B.S. in Government, Gallaudet University, 2024
+* MS in Data Science, Rochester Institute of Technology, 2026
+* BA in Government, Gallaudet University, 2024
 
 Work experience
 ======
