@@ -11,27 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Rochester Institute of Technology, 2026
+* B.S. in Government, Gallaudet University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 - May 2026: Department of Access Services ASL Consultant
+  * Rochester Institute of Technology
+  * Duties included: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Graduate Research Assistant
+  * Rochester Institute of Technology
+  * Langdon Laboratory for Developmental Cognitive Neuroscience (LL-DCN)
+  * Duties included: cleaning & managing R datasets, supporting participant recruitment & grant deliverables, and presenting findings/analytics
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* August 2022 - August 2024: Undergraduate Data Science Researcher
+  * The Data Mine at Purdue University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
+
+* January 2021 - August 2024: Lifeguard, Aquatics Center
+  * Gallaudet University
+  * Duties included: 
+
 Skills
 ======
 * Skill 1
