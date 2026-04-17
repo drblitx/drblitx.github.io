@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,21 +22,17 @@ Work experience
 
 * **January 2025 - May 2026:** _Department of Access Services ASL Consultant_
   * Rochester Institute of Technology
-  * Duties included: 
 
 * **Fall 2024:** _Graduate Research Assistant_
   * Rochester Institute of Technology
   * Langdon Laboratory for Developmental Cognitive Neuroscience (LL-DCN)
-  * Duties included: cleaning & managing R datasets, supporting participant recruitment & grant deliverables, and presenting findings/analytics
 
 * **August 2022 - August 2024:** _Undergraduate Data Science Researcher_
   * The Data Mine at Purdue University
-  * Duties included: 
   * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
 
 * **January 2021 - August 2024:** _Lifeguard, Aquatics Center_
   * Gallaudet University
-  * Duties included: 
 
 Skills
 ======
