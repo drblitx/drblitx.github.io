@@ -16,23 +16,16 @@ Education
 
 Work experience
 ======
-* **Summer 2026:** _TBA_
-  * X Company
-  * Duties included:
+* **Summer 2026:** _TBA_, X Company
 
-* **January 2025 - May 2026:** _Department of Access Services ASL Consultant_
-  * Rochester Institute of Technology
+* **January 2025 - May 2026:** _Department of Access Services ASL Consultant_, Rochester Institute of Technology
 
-* **Fall 2024:** _Graduate Research Assistant_
-  * Rochester Institute of Technology
-  * Langdon Laboratory for Developmental Cognitive Neuroscience (LL-DCN)
+* **Fall 2024:** _Graduate Research Assistant_, Rochester Institute of Technology (Langdon Laboratory for Developmental Cognitive Neuroscience)
 
-* **August 2022 - August 2024:** _Undergraduate Data Science Researcher_
-  * The Data Mine at Purdue University
+* **August 2022 - August 2024:** _Undergraduate Data Science Researcher_, The Data Mine at Purdue University
   * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
 
-* **January 2021 - August 2024:** _Lifeguard, Aquatics Center_
-  * Gallaudet University
+* **January 2021 - August 2024:** _Lifeguard, Aquatics Center_, Gallaudet University
 
 Skills
 ======
