@@ -47,7 +47,7 @@ Skills
 
 Publications
 ======
-* [Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105), _Undergraduate University Honors Capstones_, 2024
+* [Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105), _Undergraduate University Honors Capstones_ (2024)
 
 Community & Leadership
 ======
@@ -59,7 +59,6 @@ Honors & Awards
 ======
 * University Honors, Gallaudet University
 * Government Outstanding Graduating Senior Award, Gallaudet University
-* Class of 2020 Salutatorian, Model Secondary School for the Deaf
   
 [//]: # (Talks)
 
