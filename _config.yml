@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"
   bio              : "Data Scientist & Software Engineer"
   location         : "DC Metro Area"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : # "none@example.org"
 
