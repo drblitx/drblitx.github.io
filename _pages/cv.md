@@ -18,9 +18,13 @@ Work experience
 ======
 * **Summer 2026:** _TBA_, X Company
 
+* **February - June 2026:** _Graduate Research Assistant_, Rochester Institute of Technology (CLaSP)
+
 * **January 2025 - May 2026:** _Department of Access Services ASL Consultant_, Rochester Institute of Technology
 
-* **August - December 2024:** _Graduate Research Assistant_, Rochester Institute of Technology (Langdon Laboratory for Developmental Cognitive Neuroscience)
+* **May - August 2025:** _Analytical Sciences Core Research & Development Graduate Intern_, Dow Chemical Company
+
+* **August - December 2024:** _Graduate Research Assistant_, Rochester Institute of Technology (LL-DCN)
 
 * **August 2022 - August 2024:** _Undergraduate Data Science Researcher_, The Data Mine at Purdue University
   * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
