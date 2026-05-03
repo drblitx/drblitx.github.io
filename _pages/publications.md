@@ -14,7 +14,7 @@ Published in _Undergraduate University Honors Capstones_, 2024
 
 **Recommended citation:** Nover, Emily. (2024). "Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems." _Undergraduate University Honors Capstones_. 105. https://ida.gallaudet.edu/honors_capstones/105/
 
-[Download Paper](https://ida.gallaudet.edu/honors_capstones/105) | [Download Bibtex](https://drblitx.github.io/files/mda.bib)
+[Download Paper](https://ida.gallaudet.edu/honors_capstones/105) \| [Download Bibtex](https://drblitx.github.io/files/mda.bib)
 
 ---
 
