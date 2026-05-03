@@ -17,7 +17,14 @@ author_profile: true
 *August 2019 - June 2020*  
 
 
-[//]: # (## Advocacy & Involvement)
+# Involvement
+
+**Name**   
+*Year*   
+Description  
+
+
+[//]: # (## Advocacy)
 
 [//]: # ()
 [//]: # (**Initiative or Project Name**  )
