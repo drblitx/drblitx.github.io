@@ -4,7 +4,6 @@ date: 2025-10-22
 permalink: /posts/2025/10/love-in-tails/
 ---
 
-# Love in Tails
 #### When that tail starts thumping, you'd better be ready.
 
 ---
