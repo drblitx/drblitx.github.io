@@ -5,6 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+[//]: # (## Research)
+
+[//]: # (**Upcoming**  )
+
+[//]: # (Published in _TBA_, 202X  )
+
+[//]: # ()
+[//]: # (**Summary:** )
+
+[//]: # ()
+[//]: # (**Recommended citation:** )
+
+[//]: # ()
+[//]: # ([Download Paper]&#40;&#41; \| [Download Bibtex]&#40;&#41;)
+
 ## Capstones
 
 **[Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105)**
@@ -18,5 +33,11 @@ Published in _Undergraduate University Honors Capstones_, 2024
 
 ---
 
-### Upcoming Master's Capstone
-TBA
+**Upcoming Master's Capstone**  
+Published in _TBA_, 2026  
+
+**Summary:** 
+
+**Recommended citation:** 
+
+[Download Paper]() \| [Download Bibtex]()
