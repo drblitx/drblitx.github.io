@@ -19,7 +19,7 @@ _Month 2026 - present_
 **TBA**, X Company  
 _Month 2026 - Month 2026_   
 
-**CLaSP Graduate Research Assistant**, Rochester Institute of Technology 
+**CLaSP Graduate Research Assistant**, Rochester Institute of Technology   
 _February - June 2026_  
 
 **Department of Access Services ASL Consultant**, Rochester Institute of Technology  
