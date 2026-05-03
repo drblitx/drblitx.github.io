@@ -11,6 +11,7 @@ author_profile: true
 * MS in Data Science, Rochester Institute of Technology, 2026
 * BA in Government, Gallaudet University, 2024
 
+---
 
 # Work experience
 **TBA**, X Company  
@@ -34,10 +35,12 @@ _August - December 2024_
 **Undergraduate Data Science Researcher**, The Data Mine at Purdue University  
 _August 2022 - August 2024_  
 
+---
 
 # Programming Languages
 Python, R, SQL, Java, C
 
+---
 
 # Skills
 * Skill 1
@@ -45,6 +48,7 @@ Python, R, SQL, Java, C
   * Sub-skill 2.1
 * Skill 3
 
+---
 
 # Honors & Awards
 * University Honors, Gallaudet University
