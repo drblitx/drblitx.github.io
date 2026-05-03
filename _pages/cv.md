@@ -14,9 +14,12 @@ Education
 * MS in Data Science, Rochester Institute of Technology, 2026
 * BA in Government, Gallaudet University, 2024
 
+
 Work experience
 ======
-* **Summer 2026:** _TBA_, X Company
+* **Month 2026 - present:** _TBA_, X Company
+
+* **Month 2026 - Month 2026:** _TBA_, X Company
 
 * **February - June 2026:** _Graduate Research Assistant_, Rochester Institute of Technology (CLaSP)
 
@@ -29,9 +32,11 @@ Work experience
 * **August 2022 - August 2024:** _Undergraduate Data Science Researcher_, The Data Mine at Purdue University
   * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
 
-* **January 2021 - August 2024:** _Lifeguard_, Gallaudet University
 
-* **August 2023 - May 2024:** _Library Circulation Assistant_, Gallaudet University
+Programming Languages
+======
+Python, R, SQL, Java, C
+
 
 Skills
 ======
@@ -40,9 +45,11 @@ Skills
   * Sub-skill 2.1
 * Skill 3
 
+
 Publications
 ======
 * [Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105), _Undergraduate University Honors Capstones_ (2024)
+
 
 Community & Leadership
 ======
@@ -50,11 +57,13 @@ Community & Leadership
 * **August 2022 - January 2023:** _Director of Community Relations, Gallaudet University Student Body Government_
 * **August 2019 - June 2020:** _President, Model Secondary School for the Deaf Student Body Government_
 
+
 Honors & Awards
 ======
 * University Honors, Gallaudet University
 * Government Outstanding Graduating Senior Award, Gallaudet University
   
+
 [//]: # (Talks)
 
 [//]: # (======)
