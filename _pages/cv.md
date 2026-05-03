@@ -13,19 +13,26 @@ author_profile: true
 
 
 # Work experience
-* **Month 2026 - present:** _TBA_, X Company
+**TBA**, X Company  
+_Month 2026 - present_
 
-* **Month 2026 - Month 2026:** _TBA_, X Company
+**TBA**, X Company  
+_Month 2026 - Month 2026_   
 
-* **February - June 2026:** _Graduate Research Assistant_, Rochester Institute of Technology (CLaSP)
+**CLaSP Graduate Research Assistant**, Rochester Institute of Technology 
+_February - June 2026_  
 
-* **January 2025 - May 2026:** _Department of Access Services ASL Consultant_, Rochester Institute of Technology
+**Department of Access Services ASL Consultant**, Rochester Institute of Technology  
+_January 2025 - Mary 2026_  
 
-* **May - August 2025:** _Analytical Sciences Core Research & Development Graduate Intern_, Dow Chemical Company
+**Analytical Sciences Core Research & Development Graduate Intern**, Dow Chemical Company  
+_May - August 2025_  
 
-* **August - December 2024:** _Graduate Research Assistant_, Rochester Institute of Technology (LL-DCN)
+**LL-DCN Graduate Research Assistant**, Rochester Institute of Technology  
+_August - December 2024_  
 
-* **August 2022 - August 2024:** _Undergraduate Data Science Researcher_, The Data Mine at Purdue University
+**Undergraduate Data Science Researcher**, The Data Mine at Purdue University  
+_August 2022 - August 2024_  
 
 
 # Programming Languages
