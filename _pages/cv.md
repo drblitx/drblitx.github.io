@@ -46,41 +46,7 @@ Skills
 * Skill 3
 
 
-Publications
-======
-* [Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105), _Undergraduate University Honors Capstones_ (2024)
-
-
-Community & Leadership
-======
-* **January 2025 - May 2026:** _Graduate Representative, RIT/NTID Cross-Registered Student Advisory Board (XSAB)_
-* **August 2022 - January 2023:** _Director of Community Relations, Gallaudet University Student Body Government_
-* **August 2019 - June 2020:** _President, Model Secondary School for the Deaf Student Body Government_
-
-
 Honors & Awards
 ======
 * University Honors, Gallaudet University
 * Government Outstanding Graduating Senior Award, Gallaudet University
-  
-
-[//]: # (Talks)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.talks reversed %})
-
-[//]: # (    {% include archive-single-talk-cv.html  %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (  )
-[//]: # (Teaching)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.teaching reversed %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
