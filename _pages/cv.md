@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
+# Education
 * MS in Data Science, Rochester Institute of Technology, 2026
 * BA in Government, Gallaudet University, 2024
 
 
-Work experience
-======
+# Work experience
 * **Month 2026 - present:** _TBA_, X Company
 
 * **Month 2026 - Month 2026:** _TBA_, X Company
@@ -31,20 +29,17 @@ Work experience
   * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
 
 
-Programming Languages
-======
+# Programming Languages
 Python, R, SQL, Java, C
 
 
-Skills
-======
+# Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
 * Skill 3
 
 
-Honors & Awards
-======
+# Honors & Awards
 * University Honors, Gallaudet University
 * Government Outstanding Graduating Senior Award, Gallaudet University

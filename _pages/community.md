@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Community"
+title: ""
 permalink: /community/
 author_profile: true
 ---
 
-## Leadership
+# Leadership
 
 **Graduate Representative**, RIT/NTID Cross-Registered Student Advisory Board (XSAB)  
 *January 2025 - May 2026*  

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[//]: # (## Research)
+[//]: # (# Research)
 
 [//]: # (**Upcoming**  )
 
@@ -20,9 +20,9 @@ author_profile: true
 [//]: # ()
 [//]: # ([Download Paper]&#40;&#41; \| [Download Bibtex]&#40;&#41;)
 
-## Capstones
+# Capstones
 
-**[Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105)**
+**[Mapping Deaf America: Visualizing American Deaf Sociality through Geographic Information Systems](https://ida.gallaudet.edu/honors_capstones/105)**  
 Published in _Undergraduate University Honors Capstones_, 2024  
 
 **Summary:** A perspective of “Deaf America” as a framework highlighting the unique social network, geographic nuances, and sensory experiences of the deaf community in the United States.
