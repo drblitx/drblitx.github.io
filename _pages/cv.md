@@ -26,7 +26,6 @@ author_profile: true
 * **August - December 2024:** _Graduate Research Assistant_, Rochester Institute of Technology (LL-DCN)
 
 * **August 2022 - August 2024:** _Undergraduate Data Science Researcher_, The Data Mine at Purdue University
-  * Corporate Partners worked with: Nagish, 5 Star Interpreting, and ASL Aspire
 
 
 # Programming Languages
