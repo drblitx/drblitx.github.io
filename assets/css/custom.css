@@ -1,22 +1,4 @@
 /* Publications page spacing */
-.archive__item {
-  margin-bottom: 1em;
-}
-
-.archive__item-title {
-  font-size: 1em;
-  font-weight: bold;
-}
-
-h2 + hr {
-  margin-top: 0;
-  margin-bottom: 1em;
-}
-
-.page__title + .wordwrap {
-  margin-bottom: 1em;
-}
-
 body {
   outline: 3px solid red;
 }
